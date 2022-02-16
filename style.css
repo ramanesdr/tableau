@@ -1,0 +1,58 @@
+td
+{
+   font-size: 10px; text-align: center; height: 16px; width: 0; min-width: 20px;
+}
+.v
+{
+    background-color: rgb(126, 109, 145);
+}
+.o
+{
+    background-color: rgb(91, 123, 184);
+}
+.of
+{
+    background-color: rgb(238, 164, 104);
+}
+.sm
+{
+    background-color: rgb(228, 168, 196);
+}
+.smf
+{
+    background-color: rgb(136, 83, 146);
+}
+.bc
+{
+    background-color: rgb(190, 233, 233);
+}
+.vc
+{
+    background-color: rgb(218, 245, 229);
+}
+.oc
+{
+    background-color: rgb(255, 234, 167);
+}
+.or
+{
+    background-color: rgb(243, 206, 114);
+}
+.jv
+{
+    background-color: rgb(235, 248, 161);
+}
+.t1
+{
+    width: 100%;
+}
+.t2
+{
+    width: 75%; margin-top: 40px; margin-left: 12.5%; 
+}
+@media screen and (max-width: 700px) {
+    td{
+        font-size: 5%; height: 5%; width: 5%;
+    }
+    
+}
